@@ -2,4 +2,4 @@
 - 👀 I’m interested in batch scripts and Windows
 - 🌱 I’m currently learning batch and PowerShell
 - 💞️ I’m looking to collaborate on my Windows Toolbox
-- 📫 How to reach me: Discord. Yoshii64#8106.
+- 📫 How to reach me: Discord. Yoshii64#8106 and twitter: Yoshii63
